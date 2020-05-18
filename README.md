@@ -3,6 +3,7 @@ As part of my final college semester, I created a Music Recommendation System us
 
 ## Dataset Description
 The data is obtained from Spotify’s RecSys Challenge held in 2018, however I have used a subset of the data containing 4000 playlists. The data provided in JSON format was converted to CSV files and contained information about the playlist name, tracks in the playlist, number of albums and number of followers. For a more detailed analysis, I extracted more data about the audio features of each song such as tempo, instrumentalness, acousticness, etc. from Spotify’s API. The link below contains the original and the processed datasets.
+
 [Link to Dataset](https://drive.google.com/open?id=1aznWI4NTLebMqwfQPLn6XJDmVX8CO0yh)
 
 ## Approach
